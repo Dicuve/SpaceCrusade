@@ -1,0 +1,9 @@
+class Bala {
+    constructor(){
+
+    }
+
+    display(){
+
+    }
+}
